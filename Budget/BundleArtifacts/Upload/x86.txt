@@ -1,0 +1,2 @@
+MainPackage=c:\users\nero\source\repos\Budget\Budget\bin\x86\Release\Upload\Budget_1.1.2.0_x86.appx
+SymbolPackage=c:\users\nero\source\repos\Budget\Budget\bin\x86\Release\Upload\Budget_1.1.2.0\Budget_1.1.2.0_x86.appxsym

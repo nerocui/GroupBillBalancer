@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ru"
+"ResourceDimensions"		"language-ru-ru"
+
+[Files]
+"c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\split.language-ru.pri"			"resources.pri"

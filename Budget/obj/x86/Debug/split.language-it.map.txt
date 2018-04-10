@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-it"
+"ResourceDimensions"		"language-it-it"
+
+[Files]
+"c:\users\nero\source\repos\Budget\Budget\obj\x86\Debug\split.language-it.pri"			"resources.pri"

@@ -1,0 +1,12 @@
+/ref:"c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\tools\ARM\ilc\lib\Private\\"
+/ref:"c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\in"
+/ref:"c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\tools\csc"
+/out:"c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\intermediate\Budget.Sg"
+"@c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\intermediate\Budget.Sg\ComputedSerializationInput.txt"

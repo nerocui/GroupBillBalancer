@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\tools\ARM\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\intermediate\MDIL\Budget.mdilexe"
+"/i:c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\intermediate\MDIL"
+"/out:c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\intermediate\Native\Budget.exe"
+"/pdbAltPath:c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc"
+"/res:c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\ilc\intermediate\Native.res"
+"/i:C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

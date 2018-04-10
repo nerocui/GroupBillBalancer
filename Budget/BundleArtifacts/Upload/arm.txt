@@ -1,0 +1,6 @@
+MainPackage=c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\Upload\Budget_1.1.2.0_ARM.appx
+SymbolPackage=c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\Upload\Budget_1.1.2.0\Budget_1.1.2.0_ARM.appxsym
+ResourcePack=c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\Budget_1.1.2.0_scale-100.appx
+ResourcePack=c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\Budget_1.1.2.0_scale-125.appx
+ResourcePack=c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\Budget_1.1.2.0_scale-150.appx
+ResourcePack=c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\Budget_1.1.2.0_scale-400.appx

@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hant"
+"ResourceDimensions"		"language-zh-tw"
+
+[Files]
+"c:\users\nero\source\repos\Budget\Budget\obj\ARM\Debug\split.language-zh-hant.pri"			"resources.pri"

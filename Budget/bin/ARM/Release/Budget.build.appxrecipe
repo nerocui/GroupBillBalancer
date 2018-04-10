@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-4SOQ4PN</Machine>
+    <WindowsUser>Nero</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>7ed62f0c-76ca-41a9-a405-017ae5414aea</PackageIdentityName>
+    <PackageIdentityPublisher>CN=E1994DBD-BBFE-40D0-AC99-9271E31610E9</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\nero\source\repos\Budget\Budget\obj\ARM\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\AppList\AppList.scale-100.png">
+      <PackagePath>Assets\AppList\AppList.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\AppList\AppList.scale-125.png">
+      <PackagePath>Assets\AppList\AppList.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\AppList\AppList.scale-150.png">
+      <PackagePath>Assets\AppList\AppList.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\AppList\AppList.scale-200.png">
+      <PackagePath>Assets\AppList\AppList.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\AppList\AppList.scale-400.png">
+      <PackagePath>Assets\AppList\AppList.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\galaxy.jpg">
+      <PackagePath>Assets\galaxy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Large\Large310x310Logo.scale-100.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Large\Large310x310Logo.scale-125.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Large\Large310x310Logo.scale-150.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Large\Large310x310Logo.scale-200.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Large\Large310x310Logo.scale-400.png">
+      <PackagePath>Assets\Large\Large310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Medium\Medium150x150Logo.scale-100.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Medium\Medium150x150Logo.scale-125.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Medium\Medium150x150Logo.scale-150.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Medium\Medium150x150Logo.scale-200.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Medium\Medium150x150Logo.scale-400.png">
+      <PackagePath>Assets\Medium\Medium150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Small\Small71x71Logo.scale-100.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Small\Small71x71Logo.scale-125.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Small\Small71x71Logo.scale-150.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Small\Small71x71Logo.scale-200.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Small\Small71x71Logo.scale-400.png">
+      <PackagePath>Assets\Small\Small71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\SplashScreen\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\SplashScreen\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\SplashScreen\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\SplashScreen\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\SplashScreen\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Store\StoreLogo.scale-100.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Store\StoreLogo.scale-125.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Store\StoreLogo.scale-150.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Store\StoreLogo.scale-200.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Store\StoreLogo.scale-400.png">
+      <PackagePath>Assets\Store\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Wide\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Wide\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Wide\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Wide\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\Wide\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\wood.jpg">
+      <PackagePath>Assets\wood.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\wtf\wtf1.jpg">
+      <PackagePath>Assets\wtf\wtf1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\wtf\wtf2.gif">
+      <PackagePath>Assets\wtf\wtf2.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\wtf\wtf3.jpg">
+      <PackagePath>Assets\wtf\wtf3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\wtf\wtf4.jpg">
+      <PackagePath>Assets\wtf\wtf4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\wtf\wtf5.png">
+      <PackagePath>Assets\wtf\wtf5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\wtf\wtf6.jpg">
+      <PackagePath>Assets\wtf\wtf6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\wtf\wtf7.gif">
+      <PackagePath>Assets\wtf\wtf7.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Assets\wtf\wtf8.jpg">
+      <PackagePath>Assets\wtf\wtf8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Budget.dll">
+      <PackagePath>Budget.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Budget.exe">
+      <PackagePath>Budget.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Budget.pdb">
+      <PackagePath>Budget.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\BladeView\BladeView.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\BladeView\BladeView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\Carousel\Carousel.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\Carousel\Carousel.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\DropShadowPanel\DropShadowPanel.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\DropShadowPanel\DropShadowPanel.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\Expander\Expander.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\Expander\Expander.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\GridSplitter\GridSplitter.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\GridSplitter\GridSplitter.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenu.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenu.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenuNavViewTemplate.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenuNavViewTemplate.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenuTemplate.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HamburgerMenu\HamburgerMenuTemplate.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\HeaderedContentControl\HeaderedContentControl.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HeaderedContentControl\HeaderedContentControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\HeaderedItemsControl\HeaderedItemsControl.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HeaderedItemsControl\HeaderedItemsControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\HeaderedTextBlock\HeaderedTextBlock.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\HeaderedTextBlock\HeaderedTextBlock.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\ImageEx\ImageEx.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\ImageEx\ImageEx.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\ImageEx\RoundImageEx.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\ImageEx\RoundImageEx.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\InAppNotification.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\InAppNotification.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\Styles\MSEdgeNotificationStyle.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\Styles\MSEdgeNotificationStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\Styles\VSCodeNotificationStyle.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\InAppNotification\Styles\VSCodeNotificationStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\LayoutTransformControl\LayoutTransformControl.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\LayoutTransformControl\LayoutTransformControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\Loading\Loading.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\Loading\Loading.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\MarkdownTextBlock\MarkdownTextBlock.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\MarkdownTextBlock\MarkdownTextBlock.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\MasterDetailsView\MasterDetailsView.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\MasterDetailsView\MasterDetailsView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\Menu\Menu.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\Menu\Menu.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\OrbitView\OrbitView.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\OrbitView\OrbitView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\PullToRefreshListView\PullToRefreshListView.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\PullToRefreshListView\PullToRefreshListView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\RadialGauge\RadialGauge.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\RadialGauge\RadialGauge.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\RadialProgressBar\RadialProgressBar.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\RadialProgressBar\RadialProgressBar.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\RangeSelector\RangeSelector.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\RangeSelector\RangeSelector.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\RotatorTile\RotatorTile.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\RotatorTile\RotatorTile.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\ScrollHeader\ScrollHeader.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\ScrollHeader\ScrollHeader.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\SlidableListItem\SlidableListItem.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\SlidableListItem\SlidableListItem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\SlidableListItem\SlidableListItemSwipeControlTemplate.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\SlidableListItem\SlidableListItemSwipeControlTemplate.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\Symbols\Symbols.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\Symbols\Symbols.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\TextToolbar.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\TextToolbar.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\ToolbarItems\ToolbarButton.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\ToolbarItems\ToolbarButton.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\ToolbarItems\ToolbarSeparator.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\TextToolbar\ToolbarItems\ToolbarSeparator.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\Themes\Generic.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI.Controls\TileControl\TileControl.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI.Controls\TileControl\TileControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI\Extensions\NavigationView\NavigationView.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI\Extensions\NavigationView\NavigationView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Microsoft.Toolkit.Uwp.UI\Extensions\NavigationView\Styles\VSCodeActivityBarStyle.xaml">
+      <PackagePath>Microsoft.Toolkit.Uwp.UI\Extensions\NavigationView\Styles\VSCodeActivityBarStyle.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Robmikh.CompositionSurfaceFactory.dll">
+      <PackagePath>Robmikh.CompositionSurfaceFactory.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Robmikh.CompositionSurfaceFactory.pdb">
+      <PackagePath>Robmikh.CompositionSurfaceFactory.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\nero\source\repos\Budget\Budget\bin\ARM\Release\ilc\Robmikh.CompositionSurfaceFactory.winmd">
+      <PackagePath>Robmikh.CompositionSurfaceFactory.winmd</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\2.0.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
